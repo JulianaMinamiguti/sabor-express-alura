@@ -23,17 +23,19 @@
    git clone https://github.com/julianamiangeli/sabor-express.git
 
 2. Acesse a pasta do projeto:
-  cd sabor-express
+     cd sabor-express
+
+ 3. Faça o commit das suas alterações:
+      git commit -m "Adiciona nova funcionalidade" 
 
 4. Execute o programa:
-   python sabor_express.py
+      python sabor_express.py
    
 ✨ Melhorias futuras- 
 💡 Ativação/desativação de restaurantes
 🗃️ Salvamento de dados em arquivos ou banco de dados
 🖼️ Interface gráfica (GUI)
 
-## 🎓 Sobre o projeto
 ## 🎓 Sobre o projeto
 
 Este projeto está sendo desenvolvido como parte das aulas do curso de **Python da Alura**, onde estou aprendendo os fundamentos da linguagem e boas práticas de programação.
